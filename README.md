@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - ReactJS
-- [Mui Core]([https://imask.js.org](https://mui.com/material-ui/material-icons/))
+- [Material Icons]([https://imask.js.org](https://mui.com/material-ui/material-icons/))
 
 ## 💻 Projeto
 
